@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🔭 I’m currently working on small persnal project<br>🌱 I’m currently learning Python <br>⚡ Fun fact Love Gaming
+🔭 I’m currently working on small personal project<br>🌱 I’m currently learning Python <br>⚡ Fun fact Love Gaming
 
 
 ## 🌐 Socials:
