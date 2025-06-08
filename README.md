@@ -8,6 +8,7 @@ I'm also learning and exploring the world of **Full-Stack Development** to build
 - 🧠 Learning: **Python**, **Machine Learning**, and **Full-Stack Web Development**
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
+- 🎮 Right Now: Playing **The Last of Us Part I**!
 
 ## 🧰 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
