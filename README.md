@@ -8,7 +8,7 @@ I'm also learning and exploring the world of **Full-Stack Development** to build
 - 🧠 Learning: **Python**, **Machine Learning**, and **Full-Stack Web Development**
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
-- 🎮 Right Now: Playing Detroit: Become Human**!
+- 🎮 Right Now: Playing Detroit: **Become Human**!
 
 ## 🧰 Tech Stack
 
