@@ -8,7 +8,7 @@ I'm also learning and exploring the world of **Full-Stack Development** to build
 - 🧠 Learning: **Python**, **Machine Learning**, and **Full-Stack Web Development**
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
-- 🎮 Right Now: Playing **Detroit: Become Human**!
+- 🎮 Right Now: Playing **Resident Evil 3 & Helldivers 2**!
 
 ## 🧰 Tech Stack
 
@@ -46,6 +46,7 @@ I'm also learning and exploring the world of **Full-Stack Development** to build
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZYG92Wa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-rajput-781373117/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RaptorShivansh)
+[![Steam](https://img.shields.io/badge/Steam-%231b2838.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198932903781/)
 
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RAPTOR-sr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
