@@ -51,12 +51,9 @@ I'm also learning and exploring the world of **Full-Stack Development** to build
 [![Steam](https://img.shields.io/badge/Steam-%231b2838.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198932903781/)
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RAPTOR-sr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RAPTOR-sr&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAPTOR-sr&theme=dark&hide_border=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@RaptorShivansh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
