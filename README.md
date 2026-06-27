@@ -4,7 +4,7 @@ I'm a passionate **Computer Science student** who loves building cool projects, 
 I'm also learning and exploring the world of **Full-Stack Development** to build complete, scalable web apps from front to back.
 
 ## 🔭 Projects & Interests:
-- 🚧 Working on: **Vision-Based CCTV Object Detection System** (YOLOv8 + BLIP)
+- 🚧 Working on: **AnalyticsHub** 
 - 🧠 Learning: **Python**, **Machine Learning**, and **Full-Stack Web Development**
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
