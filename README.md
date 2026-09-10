@@ -1,11 +1,11 @@
 # 👋 Hey there! I'm Shivansh Rajput
 
 I'm a passionate **Computer Science student** who loves building cool projects, exploring the world of **Machine Learning**, and diving into tech experiments. I enjoy turning ideas into real applications, and I'm currently exploring the intersection of AI and Computer Vision.  
-I'm also learning and exploring the world of **Full-Stack Development** to build complete, scalable web apps from front to back.
+I'm also learning and exploring the world of **Ai agents** to build complete, scalable.
 
 ## 🔭 Projects & Interests:
 - 🚧 Working on: **AnalyticsHub** 
-- 🧠 Learning: **Python**, **Machine Learning**, and **Full-Stack Web Development**
+- 🧠 Learning: **Python**, **Machine Learning**.
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
 - 🎮 Right Now: Playing **Resident Evil 3 & Helldivers 2**!
