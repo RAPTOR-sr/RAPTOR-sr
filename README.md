@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Shivansh Rajput
 
 I'm a passionate **Computer Science student** who loves building cool projects, exploring the world of **Machine Learning**, and diving into tech experiments. I enjoy turning ideas into real applications, and I'm currently exploring the intersection of AI and Computer Vision.  
-I'm also learning and exploring the world of **Ai agents** to build complete, scalable.
+I'm also learning and exploring the world of **Ai agents** to build complete Project.
 
 ## 🔭 Projects & Interests:
 - 🚧 Working on: **AnalyticsHub** 
