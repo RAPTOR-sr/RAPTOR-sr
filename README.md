@@ -5,7 +5,7 @@ I'm also learning and exploring the world of **Ai agents** to build complete Pro
 
 ## 🔭 Projects & Interests:
 - 🚧 Working on: **DeadlineDrive_AI_agent** 
-- 🧠 Learning: **Python**, **Machine Learning**.
+- 🧠 Learning: **Python**, **Machine Learning, DSA :)**.
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
 - 🎮 Right Now: Playing **Helldivers 2**!
