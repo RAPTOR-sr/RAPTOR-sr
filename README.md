@@ -4,7 +4,7 @@ I'm a passionate **Computer Science student** who loves building cool projects, 
 I'm also learning and exploring the world of **Ai agents** to build complete Project.
 
 ## 🔭 Projects & Interests:
-- 🚧 Working on: **AnalyticsHub** 
+- 🚧 Working on: **DeadlineDrive_AI_agent** 
 - 🧠 Learning: **Python**, **Machine Learning**.
 - 💡 Interests: AI, IoT with Raspberry Pi, Computer Vision, Automation, and exploring **custom ROMs** and Android modding
 - 🎮 Fun fact: I’m a huge fan of **CS2** and **story mode games** like *Red Dead Redemption* and *God of War*!
